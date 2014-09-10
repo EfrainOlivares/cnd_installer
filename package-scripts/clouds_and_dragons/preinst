@@ -1,0 +1,7 @@
+#!/bin/bash
+#
+# Perform necessary clouds_and_dragons setup steps
+# before package is installed.
+#
+
+echo "You're about to install clouds_and_dragons!"

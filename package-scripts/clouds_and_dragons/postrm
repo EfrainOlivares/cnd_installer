@@ -1,0 +1,9 @@
+#!/bin/bash
+#
+# Perform necessary clouds_and_dragons removal steps
+# after package is uninstalled.
+#
+
+echo "clouds_and_dragons has been uninstalled!"
+
+exit 0
